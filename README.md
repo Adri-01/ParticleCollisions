@@ -1,2 +1,2 @@
 # ParticleCollisions
-A simple ellipse collision detection system for Processing (Java)
+A simple collision detection system for oblique spherical collusions in Processing (Java)
